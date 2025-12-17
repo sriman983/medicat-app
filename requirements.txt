@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pillow
+python-dotenv
+torch
+numpy
+sentence-transformers
+scikit-learn
